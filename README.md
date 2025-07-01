@@ -1,3 +1,3 @@
 # Risqi-Afri-Maulana
-Tugas Pemrograman Berorientasi Object
+Tugas Pemrograman Web
 @Asihwinantu
